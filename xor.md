@@ -14,3 +14,5 @@
 | `false` | `true` | `true` |
 | `true` | `false` | `true` |
 | `true` | `true` | `false` |
+
+// exercice non finis
