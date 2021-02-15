@@ -1,0 +1,16 @@
+**Table de vérité XOR (eXclusive OR)**:
+| a | b | r = a ⊕ b |
+|---|---|---------|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+
+**Table de vérité `⊕` JS**:
+| a | b | a `⊕` b |
+|---|---|---------|
+| `fals` | `false` | `false` |
+| `false` | `true` | `true` |
+| `true` | `false` | `true` |
+| `true` | `true` | `false` |
