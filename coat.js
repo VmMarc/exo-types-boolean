@@ -1,4 +1,4 @@
-let isRainy = true
+let isRainy = false
 let isWindy = false
 let isCloudy = false
 let temperature = 19
@@ -14,5 +14,5 @@ if (isRainy && isWindy && isCloudy && temperature <= 0) {
 } else if (isRainy || isWindy) {
   console.log('Mettez votre manteau')
 } else {
-  console.log('Nous n avez pas besoin de manteau today')
+  console.log('Vous n\'avez pas besoin de manteau aujourdh\'hui')
 }
