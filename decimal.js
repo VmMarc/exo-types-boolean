@@ -27,7 +27,7 @@ let nb6 = 0777
 nb.toString = (10)
 console.log(nb6)
 
-//Ou avec une boucle `for`
+//Ou avec une boucle ```for
 
 let numbers = [0x123, 0123, 0b10011001, 0xdeadbeef, 0xea7beef, 0b1111111111111111, 0777]
 
